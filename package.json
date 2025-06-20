@@ -43,7 +43,7 @@
     "eslint-plugin-n": "^15.6.0",
     "eslint-plugin-no-jquery": "^2.7.0",
     "eslint-plugin-promise": "^6.1.1",
-    "feather-icons": "^4.29.1",
+    "feather-icons": "^4.29.2",
     "filterizr": "^2.2.4",
     "flag-icon-css": "^4.1.7",
     "fuse.js": "^6.6.2",
